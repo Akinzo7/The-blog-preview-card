@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Your solution URL](https://your-solution-url.com)
+- Solution URL: [Your solution URL]([https://your-solution-url.com](https://github.com/Akinzo7/The-blog-preview-card))
 - Live Site URL: [Your live site URL](https://your-live-site-url.com)
 
 ## My process
